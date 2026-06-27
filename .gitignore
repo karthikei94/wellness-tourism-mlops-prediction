@@ -1,0 +1,8 @@
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+mlruns/
+mlartifacts/
+*.joblib
+/reference
